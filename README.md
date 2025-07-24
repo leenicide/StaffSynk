@@ -106,25 +106,11 @@ lib/
 
 ## 📬 Contact
 
-**Tech Lead**: Person A (@email)  
-**Backend Owner**: Person C (@email)
+**Tech Lead**: leena@synkflow.cloud
+**Backend Owner**: hashir@synkflow.cloud
 
 ---
 
 <p align="center">
-  <sub>Built with ❤️ for Australian workforce management</sub>
+  <sub>Built with ❤️ for Ayaz Latif</sub>
 </p>
-```
-
-### Key Highlights:
-1. **Platform Badges** - Quickly conveys tech stack maturity
-2. **Team Workflow Section** - Clarifies hardware-based responsibilities
-3. **Structured Docs Links** - Critical for AU compliance tracking
-4. **Troubleshooting** - Addresses common iOS/PostGIS pain points
-5. **Visual Hierarchy** - Icons + tables improve scanability
-
-For maximum effectiveness:
-1. Replace placeholder GIF with actual app preview
-2. Add team-specific emails in Contact section
-3. Update links to your actual docs
-4. Pin this in your repo for visibility

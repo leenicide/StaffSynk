@@ -86,10 +86,10 @@ lib/
 
 ## 📱 Build Targets
 
-| Platform  | Owner       | Key Tools                  |
-|-----------|-------------|----------------------------|
-| **iOS**   | Person A    | Xcode, TestFlight          |
-| **Android**| Person C   | Android Studio, Firebase   |
+| Platform  | Key Tools                  |
+|-----------|----------------------------|
+| **iOS**   | Xcode, TestFlight       |
+| **Android**| Android Studio, Firebase|
 
 ## 🚨 Troubleshooting
 

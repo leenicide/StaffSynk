@@ -1,4 +1,4 @@
-# Workforce Management System (WMS)
+# Staffsynk - Workforce Management Syste
 
 **iOS-Optimized Flutter App** for shift scheduling, geofenced time tracking, and payroll automation. Built for Australia with Supabase + Firebase.
 

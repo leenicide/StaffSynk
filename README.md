@@ -110,7 +110,3 @@ lib/
 **Backend Owner**: hashir@synkflow.cloud
 
 ---
-
-<p align="center">
-  <sub>Built with ❤️ for Ayaz Latif</sub>
-</p>

@@ -59,7 +59,8 @@ lib/
 1. Clone repo:
    ```bash
    git clone https://github.com/yourrepo/wms-flutter.git
-   cd wms-flutter
+   cd test-ios
+   cd staffsynk
    ```
 2. Install dependencies:
    ```bash
